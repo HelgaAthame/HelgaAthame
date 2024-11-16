@@ -44,6 +44,9 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **[https://github.com/HelgaAthame/my-cv](https://helgaathame.github.io/my-cv/):** 
   React Portfolio and Resume: an interactive resume showcasing my projects and skills.
 
+- **[Categories Mtnu]([https://github.com/HelgaAthame/nest-next](https://helgaathame.github.io/logic/)):** 
+ The app has a sidebar menu for navigation and a grid of cards that load from the backend, filtering by category when selected.
+
 - **[NewsApp](https://github.com/HelgaAthame/newsapp-back):** 
   A news platform for displaying and publishing articles, with a Node.js backend and a React frontend.
 
