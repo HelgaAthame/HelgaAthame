@@ -8,9 +8,10 @@ I am a frontend developer passionate about building intuitive and modern web app
   - JavaScript (ES6+), TypeScript
   - React, Next.js
   - HTML5, CSS3, SCSS, Tailwind CSS
-  - Redux, Zustand, Context API
+  - Redux (Toolkit, RTK Query), Zustand, Context API
   - Axios, Fetch API, WebSockets
   - Responsive and cross-browser layouts
+  - React Native, Expo
 
 - **Backend:**
   - Node.js, Express
@@ -18,15 +19,18 @@ I am a frontend developer passionate about building intuitive and modern web app
   - Postgres
   - GraphQL, REST API
   - WebSockets, Socket.io
+  - Firebase
 
 - **Development Tools:**
-  - Git, GitHub
+  - Git, GitHub, GitLab
   - Docker
   - CI/CD (GitHub Actions)
-  - Jest, Cypress, Mocha (testing)
+  - Jest, Cypress, Mocha, Playwright, Vitest (testing)
   - Postman, Swagger
+  - Agile (Scrum, Kanban; Jira, Trello, Yougile)
+  - Webpack, Vite
 
-## 💼 My Projects
+## 💼 My Pet Projects
 
 - **[Nest-Next Fullstack App](https://github.com/HelgaAthame/nest-next):** 
   A multi-page application with server-side rendering using Next.js and Nest.js. It uses MongoDB for data storage and JWT for authentication.
@@ -37,8 +41,8 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **[CRUD API](https://github.com/HelgaAthame/CRUD-api):** 
   A backend service providing full CRUD functionality with JWT-based user authentication and MongoDB for data storage.
 
-- **[React Portfolio and Resume](https://github.com/HelgaAthame/my-cv):** 
-  An interactive resume showcasing my projects, built using React and SCSS.
+- **[https://github.com/HelgaAthame/my-cv](https://helgaathame.github.io/my-cv/):** 
+  React Portfolio and Resume: an interactive resume showcasing my projects and skills.
 
 - **[NewsApp](https://github.com/HelgaAthame/newsapp-back):** 
   A news platform for displaying and publishing articles, with a Node.js backend and a React frontend.
