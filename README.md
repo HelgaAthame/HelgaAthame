@@ -15,6 +15,7 @@ I am a frontend developer passionate about building intuitive and modern web app
 
 - **Backend:**
   - Node.js, Express
+  - Nest.js
   - MongoDB, Mongoose
   - Postgres
   - GraphQL, REST API
