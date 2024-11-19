@@ -41,8 +41,9 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **[CRUD API](https://github.com/HelgaAthame/CRUD-api):** 
   A backend service providing full CRUD functionality with JWT-based user authentication and MongoDB for data storage.
 
-- **[https://github.com/HelgaAthame/my-cv](https://helgaathame.github.io/my-cv/):** 
-  React Portfolio and Resume: an interactive resume showcasing my projects and skills.
+- **React Portfolio and Resume: an interactive resume showcasing my projects and skills.**
+  App: https://helgaathame.github.io/my-cv/
+  Code: https://github.com/HelgaAthame/my-cv
 
 - **[Categories Menu](https://helgaathame.github.io/logic/):** 
  The app has a sidebar menu for navigation and a grid of cards that load from the backend, filtering by category when selected.
