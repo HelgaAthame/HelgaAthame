@@ -32,24 +32,15 @@ I am a frontend developer passionate about building intuitive and modern web app
 
 ## 💼 My Pet Projects
 
-- **[Nest-Next Fullstack App](https://github.com/HelgaAthame/nest-next):** 
-  A multi-page application with server-side rendering using Next.js and Nest.js. It uses MongoDB for data storage and JWT for authentication.
+### **[React Portfolio and Resume](https://helgaathame.github.io/my-cv/)**  
+- **Deploy:** [Visit App](https://helgaathame.github.io/my-cv/)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/my-cv)  
+- **Description:** A personal portfolio showcasing my skills and projects through an engaging, interactive interface.
 
-- **[Websockets UI](https://github.com/HelgaAthame/websockets-ui):** 
-  A real-time messaging UI using WebSockets, built with React on the frontend and Node.js for the backend.
-
-- **[CRUD API](https://github.com/HelgaAthame/CRUD-api):** 
-  A backend service providing full CRUD functionality with JWT-based user authentication and MongoDB for data storage.
-
-- **React Portfolio and Resume: an interactive resume showcasing my projects and skills.**
-  App: https://helgaathame.github.io/my-cv/
-  Code: https://github.com/HelgaAthame/my-cv
-
-- **[Categories Menu](https://helgaathame.github.io/logic/):** 
- The app has a sidebar menu for navigation and a grid of cards that load from the backend, filtering by category when selected.
-
-- **[NewsApp](https://github.com/HelgaAthame/newsapp-back):** 
-  A news platform for displaying and publishing articles, with a Node.js backend and a React frontend.
+### **[E-commerce with Server-Side Rendering](https://store-example7.vercel.app/)**  
+- **Deploy:** [Visit App](https://store-example7.vercel.app/)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/store-example)  
+- **Description:** Online store built with TypeScript, React, Next.js, Redux, and Tailwind CSS, offering fast, dynamic browsing experiences. With server-side rendering and efficient server-side actions, the site ensures quick load times, smooth performance, and seamless user interaction.
 
 ## 🏆 How I Can Add Value
 
