@@ -42,6 +42,11 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/store-example)  
 - **Description:** Online store built with TypeScript, React, Next.js, Redux, and Tailwind CSS, offering fast, dynamic browsing experiences. With server-side rendering and efficient server-side actions, the site ensures quick load times, smooth performance, and seamless user interaction.
 
+### **[Сards by category](https://helgaathame.github.io/logic/)**  
+- **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/logic)  
+- **Description:** The website features a sidebar menu with a list of categories, and displays corresponding cards upon selecting a menu item. Both the categories and the cards are dynamically fetched from the backend.
+
 ## 🏆 How I Can Add Value
 
 - Developing responsive and high-performance web applications using modern frameworks and technologies.
