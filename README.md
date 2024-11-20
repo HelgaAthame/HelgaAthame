@@ -69,5 +69,5 @@ I am a frontend developer passionate about building intuitive and modern web app
 ## 📫 How to Reach Me
 
 - **Email:** khmarukolgaivanovna@gmail.com
-- **LinkedIn:** [Olga Khmaruk]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/olga-k-aa9054220?utm_source=share&utm_campaign=share_via&utm_content=profile))
+- **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/olga-k-aa9054220?utm_source=share&utm_campaign=share_via&utm_content=profile)
 - **GitHub:** [HelgaAthame](https://github.com/HelgaAthame)
