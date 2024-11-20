@@ -45,7 +45,7 @@ I am a frontend developer passionate about building intuitive and modern web app
   
 ### **[Music Library (Fullstack)](https://nest-next-kappa.vercel.app/)**  
 - **Front Deploy:** [Visit App](https://nest-next-kappa.vercel.app/)
-- **Back Deploy:** [Swagger](https://nest-next-back.vercel.app/)
+- **Back Deploy:** [Swagger](https://nest-next-back.vercel.app/api-json)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/nest-next)  
 - **Description:** A full-stack music library project using **NestJS** for the backend and **Next.js** with **React**, **TypeScript**, and **Tailwind CSS** for the frontend. It features track and album management,**MongoDB** integration, and a responsive UI for users to interact with and listen to music.
   
