@@ -42,7 +42,13 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Deploy:** [Visit App](https://store-example7.vercel.app/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/store-example)  
 - **Description:** Online store built with TypeScript, React, Next.js, Redux, and Tailwind CSS, offering fast, dynamic browsing experiences. With server-side rendering and efficient server-side actions, the site ensures quick load times, smooth performance, and seamless user interaction.
-
+  
+### **[Music Library (Fullstack)](https://nest-next-kappa.vercel.app/)**  
+- **Front Deploy:** [Visit App](https://nest-next-kappa.vercel.app/)
+- **Back Deploy:** [Swagger](https://nest-next-d1o.vercel.app/api)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/nest-next)  
+- **Description:** A full-stack music library project using **NestJS** for the backend and **Next.js** with **React**, **TypeScript**, and **Tailwind CSS** for the frontend. It features track and album management,**MongoDB** integration, and a responsive UI for users to interact with and listen to music.
+  
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/logic)  
