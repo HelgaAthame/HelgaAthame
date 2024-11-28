@@ -67,7 +67,6 @@ I am a frontend developer passionate about building intuitive and modern web app
 
 ### **[Musical Instruments Store](https://cadence-musical-instruments.netlify.app/)**  
 - **Deploy:** [Visit App](https://cadence-musical-instruments.netlify.app/)
-- **Code:** [GitHub Repository]([https://github.com/killthecreator/online-store-team/tree/develop)  
 - **Description:** Developed a dynamic and user-friendly frontend for an online musical instrument store, focusing on seamless navigation, responsive design, and engaging user experiences. Ensured optimal performance and accessibility to enhance customer satisfaction and drive sales.
   
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
