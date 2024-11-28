@@ -72,6 +72,10 @@ I am a frontend developer passionate about building intuitive and modern web app
 ### **[Gem puzzle](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/src/)**  
 - **Deploy:** [Visit App](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/src/)
 - **Description:** Challenge your mind with Gem Puzzle, a classic sliding tile game! Arrange gems in the correct order to solve puzzles and achieve the highest score.
+
+### **[GraphQL Playground](https://graphiql-app-git-develop-killthecreator.vercel.app/)**  
+- **Deploy:** [Visit App](https://graphiql-app-git-develop-killthecreator.vercel.app/)
+- **Description:** Explore and test your GraphQL queries in this interactive sandbox application! Built with a modern stack, it features a seamless registration system and a sleek, responsive interface for developers to experiment effortlessly.
   
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
