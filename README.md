@@ -56,11 +56,14 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Code Backend:** [GitHub Repository](https://github.com/HelgaAthame/newsapp-back)  
 - **Description:** This full-stack application enables users to create, edit, and read news seamlessly. The backend is powered by NestJS, GraphQL with Apollo, TypeORM, and PostgreSQL, ensuring robust performance and scalability. The frontend leverages TypeScript with Next.js for web, React Native with Expo for mobile, and tools like Formik + Yup, NativeWind, and GraphQL for an intuitive and dynamic user experience.
 
+### **[Song Bird](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/my-app/dist/#)**  
+- **Deploy:** [Visit App](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/my-app/dist/#)
+- **Description:** Test your knowledge of bird songs with this engaging quiz app! Listen to bird calls, choose the correct species from multiple options, and learn fascinating facts along the way.
+
 ### **[Bomberman](https://bomberman2d.netlify.app/)**  
 - **Deploy:** [Visit App](https://bomberman2d.netlify.app/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/RSClone/tree/develop)  
-- **Description:** 
-A fast-paced Bomberman clone that brings classic arcade action to your device, where players strategically place bombs to clear paths and defeat opponents in a maze-like arena.
+- **Description:** A fast-paced Bomberman clone that brings classic arcade action to your device, where players strategically place bombs to clear paths and defeat opponents in a maze-like arena.
 
 ### **[Musical Instruments Store](https://cadence-musical-instruments.netlify.app/)**  
 - **Deploy:** [Visit App](https://cadence-musical-instruments.netlify.app/)
