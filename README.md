@@ -69,6 +69,10 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Deploy:** [Visit App](https://cadence-musical-instruments.netlify.app/)
 - **Description:** Developed a dynamic and user-friendly frontend for an online musical instrument store, focusing on seamless navigation, responsive design, and engaging user experiences. Ensured optimal performance and accessibility to enhance customer satisfaction and drive sales.
   
+### **[Gem puzzle](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/src/)**  
+- **Deploy:** [Visit App](https://rolling-scopes-school.github.io/helgaathame-JSFE2022Q3/src/)
+- **Description:** Challenge your mind with Gem Puzzle, a classic sliding tile game! Arrange gems in the correct order to solve puzzles and achieve the highest score.
+  
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/logic)  
