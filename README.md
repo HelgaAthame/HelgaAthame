@@ -55,6 +55,12 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Code Frontend:** [GitHub Repository](https://github.com/HelgaAthame/news-app) 
 - **Code Backend:** [GitHub Repository](https://github.com/HelgaAthame/newsapp-back)  
 - **Description:** This full-stack application enables users to create, edit, and read news seamlessly. The backend is powered by NestJS, GraphQL with Apollo, TypeORM, and PostgreSQL, ensuring robust performance and scalability. The frontend leverages TypeScript with Next.js for web, React Native with Expo for mobile, and tools like Formik + Yup, NativeWind, and GraphQL for an intuitive and dynamic user experience.
+
+### **[Bomberman](https://bomberman2d.netlify.app/)**  
+- **Deploy:** [Visit App](https://bomberman2d.netlify.app/)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/RSClone/tree/develop)  
+- **Description:** 
+A fast-paced Bomberman clone that brings classic arcade action to your device, where players strategically place bombs to clear paths and defeat opponents in a maze-like arena.  
   
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
