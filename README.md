@@ -76,6 +76,12 @@ I am a frontend developer passionate about building intuitive and modern web app
 ### **[GraphQL Playground](https://graphiql-app-git-develop-killthecreator.vercel.app/)**  
 - **Deploy:** [Visit App](https://graphiql-app-git-develop-killthecreator.vercel.app/)
 - **Description:** Explore and test your GraphQL queries in this interactive sandbox application! Built with a modern stack, it features a seamless registration system and a sleek, responsive interface for developers to experiment effortlessly.
+
+### **[React Store](https://best-book-store.netlify.app/)**  
+- **Deploy:** [Visit App](https://best-book-store.netlify.app/)
+- **Code:** [GitHub Repository](https://github.com/HelgaAthame/react)
+- **Description:** Developed a React application with Redux and TypeScript for fetching API data and displaying it as interactive cards. Designed a dynamic form system to render user inputs into responsive card layouts, emphasizing performance and usability.
+  
   
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
