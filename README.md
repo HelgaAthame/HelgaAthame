@@ -60,7 +60,12 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Deploy:** [Visit App](https://bomberman2d.netlify.app/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/RSClone/tree/develop)  
 - **Description:** 
-A fast-paced Bomberman clone that brings classic arcade action to your device, where players strategically place bombs to clear paths and defeat opponents in a maze-like arena.  
+A fast-paced Bomberman clone that brings classic arcade action to your device, where players strategically place bombs to clear paths and defeat opponents in a maze-like arena.
+
+### **[Musical Instruments Store](https://cadence-musical-instruments.netlify.app/)**  
+- **Deploy:** [Visit App](https://cadence-musical-instruments.netlify.app/)
+- **Code:** [GitHub Repository]([https://github.com/killthecreator/online-store-team/tree/develop)  
+- **Description:** Developed a dynamic and user-friendly frontend for an online musical instrument store, focusing on seamless navigation, responsive design, and engaging user experiences. Ensured optimal performance and accessibility to enhance customer satisfaction and drive sales.
   
 ### **[Сards by category](https://helgaathame.github.io/logic/)**  
 - **Deploy:** [Visit App](https://helgaathame.github.io/logic/)
