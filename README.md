@@ -50,8 +50,8 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Description:** A full-stack music library project using **NestJS** for the backend and **Next.js** with **React**, **TypeScript**, and **Tailwind CSS** for the frontend. It features track and album management,**MongoDB** integration, and a responsive UI for users to interact with and listen to music.
 
 ### **[News App (Fullstack)](https://news-app-olga.vercel.app/)** for small screens  
-- **Front Deploy:** [Visit App](https://news-app-olga.vercel.app/)
-- **Back Deploy:** [GraphQL](https://newsapp-back.vercel.app/graphql)
+- **Front Deploy:** [Visit App](https://nest-next-production-e9c3.up.railway.app/)
+- **Back Deploy:** [GraphQL](https://nest-next-production.up.railway.app/)
 - **Code Frontend:** [GitHub Repository](https://github.com/HelgaAthame/news-app) 
 - **Code Backend:** [GitHub Repository](https://github.com/HelgaAthame/newsapp-back)  
 - **Description:** This full-stack application enables users to create, edit, and read news seamlessly. The backend is powered by NestJS, GraphQL with Apollo, TypeORM, and PostgreSQL, ensuring robust performance and scalability. The frontend leverages TypeScript with Next.js for web, React Native with Expo for mobile, and tools like Formik + Yup, NativeWind, and GraphQL for an intuitive and dynamic user experience.
