@@ -44,14 +44,14 @@ I am a frontend developer passionate about building intuitive and modern web app
 - **Description:** Online store built with TypeScript, React, Next.js, Redux, and Tailwind CSS, offering fast, dynamic browsing experiences. With server-side rendering and efficient server-side actions, the site ensures quick load times, smooth performance, and seamless user interaction.
   
 ### **[Music Library (Fullstack)](https://nest-next-kappa.vercel.app/)**  
-- **Front Deploy:** [Visit App](https://nest-next-kappa.vercel.app/)
-- **Back Deploy:** [Swagger](https://nest-next-back.vercel.app/api-json)
+- **Front Deploy:** [Visit App](https://nest-next-production-e9c3.up.railway.app/)
+- **Back Deploy:** [URL](https://nest-next-production.up.railway.app/)
 - **Code:** [GitHub Repository](https://github.com/HelgaAthame/nest-next)  
 - **Description:** A full-stack music library project using **NestJS** for the backend and **Next.js** with **React**, **TypeScript**, and **Tailwind CSS** for the frontend. It features track and album management,**MongoDB** integration, and a responsive UI for users to interact with and listen to music.
 
 ### **[News App (Fullstack)](https://news-app-olga.vercel.app/)** for small screens  
-- **Front Deploy:** [Visit App](https://nest-next-production-e9c3.up.railway.app/)
-- **Back Deploy:** [GraphQL](https://nest-next-production.up.railway.app/)
+- **Front Deploy:** [Visit App](https://news-app-olga.vercel.app/)
+- **Back Deploy:** [GraphQL](https://newsapp-back.vercel.app/graphql)
 - **Code Frontend:** [GitHub Repository](https://github.com/HelgaAthame/news-app) 
 - **Code Backend:** [GitHub Repository](https://github.com/HelgaAthame/newsapp-back)  
 - **Description:** This full-stack application enables users to create, edit, and read news seamlessly. The backend is powered by NestJS, GraphQL with Apollo, TypeORM, and PostgreSQL, ensuring robust performance and scalability. The frontend leverages TypeScript with Next.js for web, React Native with Expo for mobile, and tools like Formik + Yup, NativeWind, and GraphQL for an intuitive and dynamic user experience.
